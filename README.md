@@ -1,5 +1,5 @@
 # Teals- Level 1 Heading
-https://github.com/davisjasmine2022/TEALS/tree/main
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davisjasmine2022/TEALS/HEAD)
 This is my text under level 1 **This is introduction to software technology** class at *Towers HIgh School* LInks are easy tio make - the high school can be found [here](https://www.towershs.dekalb.k12.ga.us/).
 
 ![The Towers High school and dekalb County Schools logos](https://www.towers.dekalb.k12.ga.us/sysimages/logo.png)
